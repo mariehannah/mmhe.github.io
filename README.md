@@ -3,7 +3,7 @@
 
 
 **TWICE** 
-
+![alt text](d904e1147885ffee3935e02dc68ed1a1.jpg)
 Girl Group under JYPEntertainment. Debuted through a survival show called "Sixteen" 
 
 Members: 
@@ -39,7 +39,11 @@ Latest album: Formula of Love O+T=<3 (2021)
 
 
 
-**The Story Begins** 
+**The Story Begins (Mini Album)** 
+
+
+![alt text](The-Story-Begins.jpg)
+
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/0rtV5esQT6I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -50,3 +54,21 @@ Spotifly Playlist:
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/72WWZVAx6GtSbEeGESwDLo?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
 
+
+
+
+
+
+**Page 2 (Mini Album)** 
+
+
+![alt text](Page-Two-768x768.jpg)
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c7rCyll5AeY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+
+
+Released: April 25, 2016
+Album Songs: Cheer Up, Precious Love, 
