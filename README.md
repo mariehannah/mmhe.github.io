@@ -6,8 +6,32 @@
 
 Girl Group under JYPEntertainment. Debuted through a survival show called "Sixteen" 
 
+Members: 
+
+
+Im Nayeon 
+
+Yoo Jeongyeon 
+
+Hirai Momo 
+
+Minatozaki Sana 
+
+Park Jihyo 
+
+Myoui Mina 
+
+Kim Dahyun 
+
+Son Chaeyoung 
+
+Chou Tzuyu 
+
+
 Debut date: October 20, 2015 
+
 Debut Album: The Story Begins (2015) 
+
 Latest album: Formula of Love O+T=<3 (2021) 
 
 
