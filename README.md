@@ -235,3 +235,33 @@ Chou Tzuyu
 
 
 
+
+**Cry For Me (Single)** 
+
+**Released Date: December 18, 2020**
+
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/2aRAPmBCEdo9pWimsI5l87?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
+
+
+
+
+
+
+
+**Taste of Love (Mini Album)**  
+
+**Released Date: June 11, 2021** 
+
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/00vb6sViDbJLmLLchfbRh4?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
+
+
+
+
+
+
+**Formula of Love O+T=<3 (Full Album)**   
+
+**Released Date: November 12, 2021** 
+
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/5052Ip89wdW8EGdpjEpNeq?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
+
