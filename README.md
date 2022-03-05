@@ -2,7 +2,7 @@
 
 
 
-**TWICE** 
+# TWICE
 ![alt text](d904e1147885ffee3935e02dc68ed1a1.jpg)
 Girl Group under JYPEntertainment. Debuted through a survival show called "Sixteen" 
 
@@ -10,29 +10,21 @@ Members:
 
 
 Im Nayeon 
-
 Yoo Jeongyeon 
-
 Hirai Momo 
-
 Minatozaki Sana 
-
 Park Jihyo 
-
 Myoui Mina 
-
 Kim Dahyun 
-
 Son Chaeyoung 
-
 Chou Tzuyu 
 
 
-Debut date: October 20, 2015 
+**Debut date: October 20, 2015**
 
-Debut Album: The Story Begins (2015) 
+**Debut Album: The Story Begins (2015)** 
 
-Latest album: Formula of Love O+T=<3 (2021) 
+**Latest album: Formula of Love O+T=<3 (2021)**
 
 # Twice Spotify 
 
@@ -41,7 +33,13 @@ Latest album: Formula of Love O+T=<3 (2021)
 
 
 
-**Discography (Korean Albums)** 
+
+
+
+
+
+
+# Discography (Korean Albums)
 
 
 
@@ -50,6 +48,8 @@ Latest album: Formula of Love O+T=<3 (2021)
 **Released on October 20, 2015** 
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/72WWZVAx6GtSbEeGESwDLo?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
+
+
 
 
 
@@ -63,11 +63,15 @@ Latest album: Formula of Love O+T=<3 (2021)
 
 
 
+
+
 **Twicecoaster: Lane 1 (Mini Album)** 
 
 **Released on October 24, 2016**
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/5zQhaDNbiXHRqd8Y51I4vy?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
+
+
 
 
 
@@ -81,11 +85,15 @@ Latest album: Formula of Love O+T=<3 (2021)
 
 
 
+
+
 **Signal (Mini Album)** 
 
 **Released on May 15, 2017**
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/28PwDunFAR71toOCTYRvkf?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
+
+
 
 
 
@@ -100,6 +108,8 @@ Latest album: Formula of Love O+T=<3 (2021)
 
 
 
+
+
 **Merry and Happy (Repackage Full Album)** 
 
 **Released on December 11, 2017**
@@ -109,11 +119,15 @@ Latest album: Formula of Love O+T=<3 (2021)
 
 
 
+
+
 **What is Love (Mini Album)**
 
 **Released on April 9, 2018** 
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/5o5cJ6yZmcyy4y4hK0J6de?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
+
+
 
 
 
@@ -128,11 +142,15 @@ Latest album: Formula of Love O+T=<3 (2021)
 
 
 
+
+
 **Yes or Yes (Mini Album)**
 
 **Released on November 5, 2018** 
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/25VunQEW0x2W6ALND2Mh4g?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
+
+
 
 
 
@@ -146,6 +164,8 @@ Latest album: Formula of Love O+T=<3 (2021)
 
 
 
+
+
 **Fancy You (Mini Album)** 
 
 **Released on April 22, 2019** 
@@ -155,8 +175,17 @@ Latest album: Formula of Love O+T=<3 (2021)
 
 
 
-**Feel Special (Mini Album)
+
+
+**Feel Special (Mini Album)**
 
 **Released on September 23, 2019** 
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/3NQBPabmRm3LzVcmtkTLfo?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
+
+
+
+
+
+
+**More and More**
