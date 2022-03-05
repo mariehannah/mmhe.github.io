@@ -1,4 +1,4 @@
-# mmhe.github.io
+# Twice Spotify Album Playlist
 
 
 
@@ -34,41 +34,129 @@ Debut Album: The Story Begins (2015)
 
 Latest album: Formula of Love O+T=<3 (2021) 
 
+# Twice Spotify 
 
-**Discography (Korean)** 
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/artist/7n2Ycct7Beij7Dj7meI4X0?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
+
+
+
+
+**Discography (Korean Albums)** 
 
 
 
 **The Story Begins (Mini Album)** 
 
-
-![alt text](The-Story-Begins.jpg)
-
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0rtV5esQT6I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-Released: October 20, 2015 
-Album Songs: Like Ohh-Ahh (OOH-AHH하게), Do it Again, Going Crazy, Truth, Candy Boy, and Like a Fool
-
-Spotifly Playlist: 
+**Released on October 20, 2015** 
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/72WWZVAx6GtSbEeGESwDLo?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
 
 
 
 
+**Page Two (Mini Album)** 
 
+**Released on April 25, 2016** 
 
-**Page 2 (Mini Album)** 
-
-
-![alt text](Page-Two-768x768.jpg)
-
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c7rCyll5AeY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/6q2oUEqL9uzVXHCeKoA8JV?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
 
 
 
 
-Released: April 25, 2016
-Album Songs: Cheer Up, Precious Love, 
+**Twicecoaster: Lane 1 (Mini Album)** 
+
+**Released on October 24, 2016**
+
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/5zQhaDNbiXHRqd8Y51I4vy?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
+
+
+
+
+**Twicecoaster: Lane 2 (Mini Album)** 
+
+**Released on Febuary 20, 2017**
+
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/2Mw8oK3aJKmOa9YGWqpN2W?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
+
+
+
+
+**Signal (Mini Album)** 
+
+**Released on May 15, 2017**
+
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/28PwDunFAR71toOCTYRvkf?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
+
+
+
+
+**Twicetagram (1st Full Album)** 
+
+**Released on October 30, 2017**
+
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/3hJXmK5gWN9P6jtZL0Lr2y?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
+
+
+
+
+
+**Merry and Happy (Repackage Full Album)** 
+
+**Released on December 11, 2017**
+
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/0R7pj4tnmcoUulrZGPo6nw?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
+
+
+
+
+**What is Love (Mini Album)**
+
+**Released on April 9, 2018** 
+
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/5o5cJ6yZmcyy4y4hK0J6de?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
+
+
+
+
+**Summer Nights (Repackage Mini Album)** 
+
+**Released on July 9, 2018** 
+
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/2GKTroaa4ysyhEdvzpvUoM?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
+
+
+
+
+
+**Yes or Yes (Mini Album)**
+
+**Released on November 5, 2018** 
+
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/25VunQEW0x2W6ALND2Mh4g?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
+
+
+
+
+**The Year of Yes (Repackage Mini Album)** 
+
+**Released on December 18, 2018** 
+
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/0pzmyJftuTK7i4HLjnfq1n?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
+
+
+
+
+**Fancy You (Mini Album)** 
+
+**Released on April 22, 2019** 
+
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/3aLpWFejbsdyafODLXRqwF?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
+
+
+
+
+**Feel Special (Mini Album)
+
+**Released on September 23, 2019** 
+
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/3NQBPabmRm3LzVcmtkTLfo?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
